@@ -1,0 +1,8 @@
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTI5YzgwMDUwMDhmNmE5MDk0MGEyZWUiLCJ1c2VyRW1haWwiOiJzYW1wbGV0ZXN0MTIzQGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjIwMDEwMDEyMzQsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjU2OTAwNTIsImV4cCI6MTc5NzI0NzY1Mn0.1qc8DYcbgwUlVI7IpGGqkkgqIz6bWs364h74Zd4GdD0
+{
+  orders: [ '693e4ac432ed865871324dc7' ],
+  productOrderId: [ '68a961459320a140fe1ca57a' ],
+  message: 'Order Placed Successfully'
+}
+693e4ac432ed865871324dc7
+locator('div.mt-4.ng-star-inserted')

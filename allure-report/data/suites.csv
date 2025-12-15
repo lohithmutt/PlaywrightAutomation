@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Dec 06 15:39:45 IST 2025","Sat Dec 06 15:39:49 IST 2025","3621","chromium","clientapp.spec.js","","","","client app test for sampletest123@gmail.com",""
+"passed","Sat Dec 06 15:39:45 IST 2025","Sat Dec 06 15:39:49 IST 2025","3606","chromium","clientapp.spec.js","","","","client app test for rahulshetty@gmail.com",""

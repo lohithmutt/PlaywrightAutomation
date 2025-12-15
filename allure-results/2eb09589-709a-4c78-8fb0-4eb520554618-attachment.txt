@@ -1,0 +1,7 @@
+ff8081819782e69e019b1f760e366ed1
+{
+  id: 'ff8081819782e69e019b1f760e366ed1',
+  name: 'Apple MacBook Pro M5',
+  createdAt: '2025-12-15T00:43:09.238+00:00',
+  data: null
+}

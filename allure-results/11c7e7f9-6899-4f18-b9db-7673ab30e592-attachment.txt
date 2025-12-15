@@ -1,0 +1,7 @@
+ff8081819782e69e019b0d19a3db473c
+{
+  id: 'ff8081819782e69e019b0d19a3db473c',
+  name: 'MacBook',
+  createdAt: '2025-12-11T11:09:02.811+00:00',
+  data: null
+}

@@ -1,0 +1,6 @@
+{
+  timestamp: '2025-12-15T00:43:34.130+00:00',
+  status: 404,
+  error: 'Not Found',
+  path: '/objectsundefined'
+}

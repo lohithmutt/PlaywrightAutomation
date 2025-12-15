@@ -1,0 +1,6 @@
+{
+  timestamp: '2025-12-11T12:49:12.646+00:00',
+  status: 404,
+  error: 'Not Found',
+  path: '/objectsff8081819782e69e019b0d7555ef48cd'
+}
